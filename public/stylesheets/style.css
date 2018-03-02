@@ -1,0 +1,19 @@
+body {
+  font: 16px sans-serif, Helvetica, Arial;
+}
+
+a {
+  color: #00B7FF;
+}
+
+.center {
+  padding: 70px 0;
+  text-align: center;
+}
+
+.wrap-login-credentials {
+  margin: auto;
+  width: 250px;
+  background: #fff;
+	padding: 40px;	
+}
